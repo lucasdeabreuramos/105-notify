@@ -1,0 +1,25 @@
+body{
+
+}
+
+header{
+    background-image: url(img/banner.png);
+    display: flex;
+    margin: 0;
+    height: 500px;
+}
+body header{
+    display: flex;
+    margin: 0;
+    height: 400px;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 50pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+body header h1{
+    
+}
